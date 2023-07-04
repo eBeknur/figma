@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.footer{
+  background-color: whitesmoke;
+  padding-left: 100px;
+  padding-top: 95px;
+  height: 480px;
+}
+.footer p{
+    margin-top: 32px;
+    font-size: 16px;
+    line-height: 25px;
+}
+.iphone img{
+   margin-top: 48px;
+}
+.iphone p{
+    margin-top: -20px;
+    margin-left: 30px;
+}
+.duc img{
+    margin-top: 35px;
+}
+.duc p{
+ 
+margin-left: 30px;
+margin-top: -20px;   
+}
+.Quick{
+    margin-left: 318px;
+    margin-top: -260px;
+}
+.Links p{
+   width: 80px;
+   line-height: 36px
+}
+.Discovery{
+    margin-left: 652px;
+    margin-top: -285px;
+}
+.Canada p{
+    width: 80px;
+    line-height: 28px;
+}
+.New{
+   margin-left: 950px;
+}
+.Subscribe{
+   width: 259px;
+   margin-top: -225px;
+}
+.Subscribe p{
+    border: 1px solid white;
+    display: flex;
+    align-items: center;
+    width: 370px;
+    height: 60px;
+    padding-left: 20px;
+    border-radius: 10px;
+    background-color: white;
+    color: #AAA;
+}
+.Subscribe i{
+    margin-left: 315px;
+    background-color: #3A0CA3;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    color: white;
+    align-items: center;
+    border-radius: 50%;
+    margin-top: -55px;
+}
+.Subscribe h3{
+    margin-top: 30px;
+}
+.Subscribe img{
+    margin-top: 30px;
+}
+.And{
+    display: flex;
+    gap: 40px;
+    margin-left: 695px;
+    align-items: center;
+}
+.Kattasida{
+    display: flex;
+    /* margin-top: 100px; */
+    border: 1px solid;
+    padding-left: 100px;
+    height: 50px;
+    align-items: center;
+    color: #AAA;
+    background-color: black;
+}

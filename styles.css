@@ -1,0 +1,229 @@
+* {
+  padding: 0;
+  box-sizing: border-box;
+  margin: 0;
+}
+button{
+  border: none;
+  background: #fff;
+}
+.our {
+  width: 1440px;
+  margin: 0 auto;
+  flex-direction: column;
+  background: #dfdfdf;
+  display: flex;
+}
+.our h6 {
+  color: #0b090a;
+  text-align: center;
+  font-size: 15px;
+  letter-spacing: 3px;
+  font-family: "Poppins", sans-serif;
+  display: block;
+  margin: 0 auto;
+}
+.for-text1 h1 {
+  font-family: "Poppins", sans-serif;
+  color: #0b090a;
+  font-family: Poppins;
+  font-style: normal;
+  margin: 0 auto;
+  display: block;
+  text-align: center;
+  font-size: x-large;
+}
+.box {
+  width: 340px;
+  height: 363px;
+  border-radius: 30px;
+  background: #fff;
+  margin: 40px 25px;
+}
+.boxes {
+  display: flex;
+  margin: 0 auto;
+}
+.for-text {
+  margin: 30px 0px 25px 0px;
+}
+.box .img {
+  margin: 60px 127px 0px;
+}
+.tetx {
+  text-align: center;
+  color: var(--text-colour-2, #2b2b2b);
+  font-size: 19.4px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+.texa {
+  color: #808080;
+  text-align: center;
+  font-size: 16px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 26px;
+  display: flex;
+  width: 220px;
+  flex-direction: column;
+  margin: 0 auto;
+}
+.neigh {
+  width: 1440px;
+  height: 2256px;
+  margin: 0 auto;
+}
+.h6 {
+  display: flex;
+  width: 386px;
+  flex-direction: column;
+  color: #4361ee;
+  font-size: 19.4px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  letter-spacing: 2.91px;
+  margin: 210px 0px 0px 100px;
+}
+.h2 {
+  display: flex;
+  flex-direction: column;
+  color: #2b2b2b;
+  font-size: 25px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 100;
+  line-height: 47px;
+  margin: 0px 0px 0px 95px;
+}
+.neigh-img {
+  margin: 0px 0px 0px 65px;
+  display: flex;
+}
+.neigh-img2 {
+  margin: 0px 0px 0px 65px;
+  display: flex;
+  gap: 20px;
+}
+.to {
+  display: flex;
+  width: 386px;
+  flex-direction: column;
+  color: #4361ee;
+  text-align: center;
+  font-size: 35.4px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  letter-spacing: 2.91px;
+  text-transform: uppercase;
+  margin: 100px 0px 0px 450px;
+}
+.h22 {
+  display: flex;
+  width: 626px;
+  flex-direction: column;
+  color: #2b2b2b;
+  text-align: center;
+  font-size: 39.8px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 47px;
+  margin: 10px 0px 0px 330px;
+}
+.human-img {
+  display: flex;
+  gap: 117px;
+  margin: 100px 250px 0px 100px;
+  text-align: center;
+}
+.ismg {
+  gap: 20px;
+}
+.ismg1 h3 {
+  color: #0b090a;
+  text-align: center;
+  font-size: 27.6px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  margin: 30px 0px 30px 0px;
+}
+.ismg2 h3 {
+  color: #0b090a;
+  text-align: center;
+  font-size: 27.6px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  margin: 30px 0px 0px 0px;
+}
+.ismg3 h3 {
+  color: #0b090a;
+  text-align: center;
+  font-size: 27.6px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  margin: 30px 0px 30px 0px;
+}
+.ismg4 h3 {
+  color: #0b090a;
+  text-align: center;
+  font-size: 27.6px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  margin: 30px 0px 30px 0px;
+}
+.ismg1 button a{
+color: #4361EE;
+text-align: center;
+font-size: 16px;
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+text-decoration: none;
+}
+.ismg2 button a{
+color: #4361EE;
+text-align: center;
+font-size: 16px;
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+text-decoration: none;
+}
+.ismg3 button a{
+color: #4361EE;
+text-align: center;
+font-size: 16px;
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+text-decoration: none;
+}
+.ismg4 button a{
+color: #4361EE;
+text-align: center;
+font-size: 16px;
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+text-decoration: none;
+}

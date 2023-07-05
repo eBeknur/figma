@@ -5,7 +5,7 @@
     font-family: sans-serif;
 }
 .section_01-container{
-    max-width: 1920px;
+    max-width: 1440px;
     margin: 0 auto;
 }
 .section_01-content{
@@ -16,13 +16,11 @@
 
 }
 .section_01-logo{
-    margin-left: 160px;
+    /* margin-left: 160px; */
     margin-top: 50px;
 }
 .section_01-logo h6{
     color:#4361EE;
-/* leading-trim:both;
-text-edge:cap; */
 font-size: 19.4px;
 font-family: Poppins;
 font-style: normal;
@@ -53,7 +51,7 @@ line-height: 47px;
 }
 
 .section_01-logo-right-btn button{
-    display: inline-flex;
+    display: inline-flex;    
 padding: 19px 30px;
 border-radius: 30px;
 border: 1px solid  #3A0CA3;
@@ -66,12 +64,8 @@ margin: 10px;
   background-color:  #3A0CA3;
   color: #FFF;
 }
-
-/* end */
-
-/* start */
 .section_02-container{
-    max-width: 1920px;
+    width: 1450px;
     margin: 0 auto;
 
 }
@@ -80,12 +74,8 @@ margin: 10px;
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     margin-top: 50px;
-    margin-left: 160px;
-    /* margin-right: -160px; */
-    /* width: 100%; */
-    /* gap: -50px; */
+    /* margin-left: 160px; */
     border: 0.5px #333;
-    /* position: relative; */
 
 }
 .section_02-block_1 img {
@@ -93,11 +83,8 @@ margin: 10px;
     height: 340px;
     position: relative;
     botton:50px;
-
-    /* position: absolute; */
 }
 .button{
-    position: absolute;
 left: 185px;
 border-radius: 20px;
 background: #FFE1E1;
@@ -123,7 +110,6 @@ color:  rgba(255, 17, 17, 1)
     /* position: absolute; */
 }
 .button1{
-    position: absolute;
 left: 600px;
 /* padding: 30px; */
 border-radius: 20px;
@@ -151,7 +137,6 @@ color: #119BFF
     /* position: absolute; */
 }
 .button2{
-    position: absolute;
 left: 1020px;
 border-radius: 20px;
 background: #FFE1E1;
@@ -176,7 +161,6 @@ color: #00CE3A;
     /* position: absolute; */
 }
 .button3{
-    position: absolute;
 left: 1435px;
 border-radius: 20px;
 background: #FFE1E1;

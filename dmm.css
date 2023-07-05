@@ -41,21 +41,10 @@
     color: #FFFFFF;
 }
 .container{
-    margin: 0;
-    display: flex;
+    margin: 0 auto;
+    /* display: flex; */
     justify-content: center;
     align-items: center;
-}
-.register{
-  border: 1px solid white;
-  width: 200px;
-  height: 50px;
-  border-radius: 30px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  color: #3A0CA3;
-  background-color: white;
-  margin-left: -300px;
-  margin-top: 130px;
+    margin-top: 120px;
+    border-radius: 30px;
 }

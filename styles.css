@@ -3,7 +3,7 @@
   box-sizing: border-box;
   margin: 0;
 }
-button{
+button {
   border: none;
   background: #fff;
 }
@@ -74,7 +74,7 @@ button{
 }
 .neigh {
   width: 1440px;
-  height: 2256px;
+  height: 1690px;
   margin: 0 auto;
 }
 .h6 {
@@ -187,43 +187,43 @@ button{
   line-height: normal;
   margin: 30px 0px 30px 0px;
 }
-.ismg1 button a{
-color: #4361EE;
-text-align: center;
-font-size: 16px;
-font-family: Poppins;
-font-style: normal;
-font-weight: 500;
-line-height: normal;
-text-decoration: none;
+.ismg1 button a {
+  color: #4361ee;
+  text-align: center;
+  font-size: 16px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  text-decoration: none;
 }
-.ismg2 button a{
-color: #4361EE;
-text-align: center;
-font-size: 16px;
-font-family: Poppins;
-font-style: normal;
-font-weight: 500;
-line-height: normal;
-text-decoration: none;
+.ismg2 button a {
+  color: #4361ee;
+  text-align: center;
+  font-size: 16px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  text-decoration: none;
 }
-.ismg3 button a{
-color: #4361EE;
-text-align: center;
-font-size: 16px;
-font-family: Poppins;
-font-style: normal;
-font-weight: 500;
-line-height: normal;
-text-decoration: none;
+.ismg3 button a {
+  color: #4361ee;
+  text-align: center;
+  font-size: 16px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  text-decoration: none;
 }
-.ismg4 button a{
-color: #4361EE;
-text-align: center;
-font-size: 16px;
-font-family: Poppins;
-font-style: normal;
-font-weight: 500;
-line-height: normal;
-text-decoration: none;
+.ismg4 button a {
+  color: #4361ee;
+  text-align: center;
+  font-size: 16px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  text-decoration: none;
 }
